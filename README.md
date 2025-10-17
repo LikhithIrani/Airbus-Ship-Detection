@@ -1,5 +1,8 @@
 🚢 Airbus Ship Detection: Image Segmentation with UNET
+
+
 Overview
+
 This project notebook, "Airbus Ship Detection", focuses on solving an image segmentation problem using satellite imagery. The primary goal is to accurately detect and segment ship pixels within the images.
 
 The notebook provides a complete workflow, from understanding the dataset and core computer vision concepts to building and training a deep learning model for semantic segmentation.
