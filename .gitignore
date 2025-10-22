@@ -1,0 +1,6 @@
+# Ignore the entire data folder
+data/
+
+# Ignore common Python/Jupyter files
+__pycache__/
+.ipynb_checkpoints/
