@@ -4,3 +4,6 @@ data/
 # Ignore common Python/Jupyter files
 __pycache__/
 .ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
